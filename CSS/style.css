@@ -1,0 +1,43 @@
+
+  @font-face { font-family: HEAVY; src: url('../Assets/fonts/SFArborcrestHeavy.ttf'); } 
+  @font-face { font-family: LIGHT; src: url('../Assets/fonts/SFArborcrestLight.ttf'); } 
+
+  h {
+      font-family: HEAVY;
+      font-size:630%;
+      display:inline;
+    font-color:white;
+
+  }
+
+  l {
+      font-family: LIGHT;
+      font-size:630%;
+      display:inline;
+    font-color:white;
+
+  }
+
+  m {
+      font-family: LIGHT;
+      font-size:200%;
+      display:inline;
+  }
+
+  text {
+    top:10%;
+  }
+
+  p {
+    font-size:115%;
+  }
+  
+
+
+/*
+body {
+    background-image: url(../Assets/desk.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+*/
