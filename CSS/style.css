@@ -1,6 +1,6 @@
 
-  @font-face { font-family: HEAVY; src: url('../Assets/fonts/Roboto-Medium.ttf'); } 
-  @font-face { font-family: LIGHT; src: url('../Assets/fonts/Roboto-Light.ttf'); } 
+  @font-face { font-family: HEAVY; src: url('../Assets/fonts/RobotoCondensed-Medium.ttf'); } 
+  @font-face { font-family: LIGHT; src: url('../Assets/fonts/RobotoCondensed-Light.ttf'); } 
 
   h {
       font-family: HEAVY;
